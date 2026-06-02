@@ -1,1 +1,1 @@
-# strip
+C DVQ# strip
